@@ -57,259 +57,259 @@
    },
    {
       "key":"Cast\/Host",
-      "group":" Besetzung",
+      "group":"Besetzung",
       "role":"Moderator",
       "description":"Der Moderator ist der On-Air-Zeremonienmeister des Podcasts und ständig in jeder Folge präsent (mit Ausnahme von Gastmoderatoren und alternativen Folgen). Die Aufgaben des Moderators können das Führen von Interviews, das Vorstellen von Geschichten und Segmenten, Erzählen und mehr. Es kann mehr als einen Host pro Podcast oder Folge geben.",
       "example":"Joe Rogan for \"The Joe Rogan Experience\""
    },
    {
       "key":"Cast\/Co-Host",
-      "group":" Besetzung",
+      "group":"Besetzung",
       "role":"Co-Moderator",
       "description":"Der Co-Moderator erfüllt viele der gleichen Aufgaben wie der Moderator, während er im Podcast nur eine untergeordnete Rolle spielt.",
       "example":"Dax Shepard for \"Armchair Expert\""
    },
    {
       "key":"Cast\/Guest Host",
-      "group":" Besetzung",
+      "group":"Besetzung",
       "role":"Gastmoderator",
       "description":"Der Gastmoderator erfüllt alle Pflichten der traditionellen Rolle des Moderators, tut dies jedoch in einer vorübergehenden Funktion. Oft als einzelner Auftritt oder eine kurze Zeitspanne von Episoden.",
       "example":"Erica Kelly on \"Let's Taco 'Bout Women and True Crime\""
    },
    {
       "key":"Cast\/Guest",
-      "group":" Besetzung",
+      "group":"Besetzung",
       "role":"Gast",
       "description":"Der Gast ist eine externe Partei, die in einer Folge auf Sendung ist, oft als Teilnehmer an einem Panel oder als Interviewpartner.",
       "example":"Lewis Brindley for \"Triforce!\""
    },
    {
       "key":"Cast\/Voice Actor",
-      "group":" Besetzung",
+      "group":"Besetzung",
       "role":"Synchronsprecher",
       "description":"Der Synchronsprecher gibt eine Aufführung, in der er der Rolle einer Figur in einer Podcast-Episode seine Stimme verleiht. Während die meisten Rollen des Synchronsprechers fiktiv sind, kann die Rolle des Synchronsprechers auch Nachstellungen der Realität umfassen Gespräche und Menschen.",
       "example":"Venk Potula for \"Masala Jones\""
    },
    {
       "key":"Cast\/Narrator",
-      "group":" Besetzung",
+      "group":"Besetzung",
       "role":"Erzähler",
       "description":"Der Erzähler gibt eine Darbietung, in der er die Darstellung einer fiktiven oder nicht-fiktiven Geschichte erzählt, oft in einer geskripteten Weise. Der Erzähler kann auch Stimmen von Charakteren innerhalb der Geschichte vortragen, vorausgesetzt, sie behalten weiterhin die Rolle der Darstellung bei Geschichtenerzähler oder \" Stimme Gottes \" .",
       "example":"James Harvey Freetly for \"Lakeshore & Limbo\""
    },
    {
       "key":"Cast\/Announcer",
-      "group":" Besetzung",
+      "group":"Besetzung",
       "role":"Ansager",
       "description":"Der Ansager gibt kurze Gesangsdarbietungen für die Einführung des Podcasts, Episodenthemen, Segmente, Gäste, Preise usw. Der Ansager ist dem Host des Podcasts untergeordnet und führt seine Einführungen oft in einer vorgefertigten, produzierten Weise durch .",
       "example":"Lydia Kapp for \"World Builders Anonymous\""
    },
    {
       "key":"Cast\/Reporter",
-      "group":" Besetzung",
+      "group":"Besetzung",
       "role":"Reporter",
       "description":"Der Reporter findet und recherchiert Nachrichten oder Geschichten für den Podcast, interviewt häufig Personen und führt Recherchen durch.",
       "example":""
    },
    {
       "key":"Writing\/Author",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Autor",
       "description":"Der Autor hat Prosa oder Poesie geschrieben, die ursprünglich für einen Text gedacht war, der jetzt wörtlich auf Sendung gelesen wird.",
       "example":"Heiko Martens for \"The Sigmund Freud Files\""
    },
    {
       "key":"Writing\/Editorial Director",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Redaktionsleiter",
       "description":"Der Redaktionsleiter leitet alle Abteilungen der Organisation hinter dem Podcast und ist dafür verantwortlich, Aufgaben an Mitarbeiter zu delegieren und zu verwalten. Sie sind die ranghöchsten Redakteure und verantwortlich für die Richtung, Genauigkeit und Entscheidungen dahinter Podcast-Inhalte.",
       "example":"Christopher Twarowski for \"News Beat\""
    },
    {
       "key":"Writing\/Co-Writer",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Co-Autor",
       "description":"Der Co-Autor hat in Partnerschaft mit 1-2 anderen Autoren einen Podcast geschrieben und teilt gemeinsam die Anerkennung für den kreativen Bogen, den Dialog und die Erzählung.",
       "example":"Max Eggers on \"THE LIGHTHOUSE\""
    },
    {
       "key":"Writing\/Writer",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Autor",
       "description":"Der Autor hat die Geschichte oder den Dialog eines Podcasts geschrieben. Der Autor ist oft am kreativen Bogen einer Produktion beteiligt, aber das ist keine notwendige Voraussetzung. Autoren können an fiktiven oder nicht-fiktiven Podcasts arbeiten.",
       "example":""
    },
    {
       "key":"Writing\/Songwriter",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Songschreiber",
       "description":"Der Songschreiber hat den Text und / oder Begleitmusik zu einem Original-Song geschrieben, der für den Podcast erstellt und in einer Folge gespielt wurde.",
       "example":"Ben Lapidus for \"Gay Future\""
    },
    {
       "key":"Writing\/Guest Writer",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Gastautor",
       "description":"Der Gastautor erfüllt die Aufgaben eines Autors in einer vorübergehenden Funktion, oft als einzelne Episode oder eine kurze Zeitspanne von Episoden. Die Unterscheidung zwischen Autor und Gastautor hängt von der Entscheidung des Podcasts selbst ab.",
       "example":"Beth Crane for \"The Unseen Hour\""
    },
    {
       "key":"Writing\/Story Editor",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Story Editor",
       "description":"Der Story Editor ist für die grobe Richtung des Handlungsbogens und die Charakterentwicklung eines Podcasts verantwortlich. Wird häufig in fiktiven und dokumentarischen Podcasts verwendet.",
       "example":"Gabrielle Loux for \"The NoSleep Podcast\""
    },
    {
       "key":"Writing\/Managing Editor",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Leitender Redakteur",
       "description":"Der Leitende Redakteur beaufsichtigt und koordiniert die redaktionellen Aktivitäten der Podcasts, sorgt sowohl für die detaillierte Bearbeitung als auch für die Verwaltung eines Teams von Autoren und Redakteuren, um sicherzustellen, dass die richtigen Fristen und Budgets eingehalten werden.",
       "example":"Flora Lichtman for \"Every Little Thing\""
    },
    {
       "key":"Writing\/Script Editor",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Script Editor",
       "description":"Der Skripteditor bietet Notizen und Bearbeitungen für das Aufnahmeskript in einer sehr \" praktischen \" Rolle. Der Skripteditor wird hauptsächlich in Fiktion, Dokumentarfilmen und Werbung verwendet, wo geskriptete Aufnahmen vorherrschen.",
       "example":"Alex Rioux for \"Welcome to Tinsel Town: A Christmas Adventure\""
    },
    {
       "key":"Writing\/Script Coordinator",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Drehbuchkoordinator",
       "description":"Der Drehbuchkoordinator verpackt das endgültige Drehbuch mit Anmerkungen, die spezifische logistische und kreative Hinweise für Aufnahme und Produktion widerspiegeln.",
       "example":"Alex Rioux for \"Welcome to Tinsel Town: A Christmas Adventure\""
    },
    {
       "key":"Writing\/Researcher",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Rechercheur",
       "description":"Der Rechercheur koordiniert die Beschaffung und Überprüfung von Informationen, die dann für den Inhalt einer Podcast-Episode verwendet werden können, und gibt häufig die Richtung einer Geschichte auf der Grundlage neuer Erkenntnisse vor.",
       "example":"Dave Grave for \"The Zero Brain Podcast\""
    },
    {
       "key":"Writing\/Editor",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Redakteur",
       "description":"Der Redakteur überprüft und bereitet Skripte vor, um Informationen auf kreative, genaue und ansprechende Weise zu übermitteln.",
       "example":""
    },
    {
       "key":"Writing\/Fact Checker",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Faktenprüfer",
       "description":"Der Faktenprüfer überprüft den Inhalt eines Podcasts auf sachliche Richtigkeit und verifiziert, dass die Zuordnung von Zitaten korrekt ist. Sie verwenden eine Vielzahl von Tools, einschließlich Recherchen von Drittanbietern und individueller Kontaktaufnahme. Oft gibt der Faktenprüfer auch Hinweise, wie die Produktion die Verwirrung bei der Übermittlung von Informationen in der Folge vermeiden kann.",
       "example":""
    },
    {
       "key":"Writing\/Translator",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Übersetzer",
       "description":"Der Übersetzer konvertiert Inhalte für den Podcast von einer Sprache in eine andere. Dies können Interviews, Dialoge, Textdokumente und mehr sein. Die Arbeit des Übersetzers kann on-air oder hinter den Kulissen während der Produktion verwendet werden \ / Forschungsprozess.",
       "example":""
    },
    {
       "key":"Writing\/Transcriber",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Transkriptor",
       "description":"Der Transkriptor wandelt Dialoge und Audiohinweise in Text um, der intern für Produktionsprozesse verwendet oder öffentlich für Zuhörer angezeigt werden kann.",
       "example":""
    },
    {
       "key":"Writing\/Logger",
-      "group":" Schreiben",
+      "group":"Schreiben",
       "role":"Logger",
       "description":"Der Logger überprüft und dokumentiert die Inhalte und Zeitstempel von Rohaudio im Dienste von Produzenten und Redakteuren im Produktionsprozess.",
       "example":""
    },
    {
       "key":"Audio Production\/Studio Coordinator",
-      "group":" Audioproduktion",
+      "group":"Audioproduktion",
       "role":"Studiokoordinator",
       "description":"Der Studiokoordinator verwaltet das Aufnahmestudio und die Tontechniker, die zum Zeitpunkt der Aufnahme im Studio arbeiten.",
       "example":""
    },
    {
       "key":"Audio Production\/Technical Director",
-      "group":" Audioproduktion",
+      "group":"Audioproduktion",
       "role":"Technischer Direktor",
       "description":"Der Technische Direktor beaufsichtigt die Aufzeichnung und Produktion des Podcasts, da er mit Audiotechnologien einschließlich Hardware und Software zu tun hat, und verwaltet die in diesen Bereichen involvierten Rollen.",
       "example":"Adam Raymonda on \"Celebuzz'd\""
    },
    {
       "key":"Audio Production\/Technical Manager",
-      "group":" Audioproduktion",
+      "group":"Audioproduktion",
       "role":"Technischer Leiter",
       "description":"Der Technische Leiter koordiniert ein Team von Toningenieuren und Studiomitarbeitern, die sich bei der Aufnahme und Produktion mit Audiotechnologien einschließlich Hard- und Software befassen.",
       "example":""
    },
    {
       "key":"Audio Production\/Audio Engineer",
-      "group":" Audioproduktion",
+      "group":"Audioproduktion",
       "role":"Tontechniker",
       "description":"Der Tontechniker hilft beim Aufnehmen und Produzieren von Audio, indem er Aufnahmeumgebungen einrichtet, die Aufnahme überwacht und während des gesamten Vorgangs technische Anpassungen bereitstellt. Der Tontechniker ist während des Aufnahmeprozesses anwesend und nimmt meistens Anpassungen in Echtzeit vor. Der Tontechniker kann mit Gesprächen, Musik, Geräuschen oder jeder anderen Art von Audio arbeiten.",
       "example":"Peter Leonard from \"Startup Podcast\""
    },
    {
       "key":"Audio Production\/Remote Recording Engineer",
-      "group":" Audioproduktion",
+      "group":"Audioproduktion",
       "role":"Remote Tontechniker",
       "description":"Der Remote Tontechniker stellt die ordnungsgemäße Aufzeichnung von Gesprächen sicher, die an mehreren Orten über eine Telefonleitung oder Internetverbindung stattfinden. Der Remote Tontechniker bewertet die verschiedenen Aufnahme-Setups und versucht, sie zu einem zusammenhängenden Sound zu vereinen, während er auch den Aufnahmeprozess überwacht, um das bestmögliche Audio aufzunehmen.",
       "example":""
    },
    {
       "key":"Audio Production\/Post Production Engineer",
-      "group":" Audioproduktion",
+      "group":"Audioproduktion",
       "role":"Nachbearbeitungstechniker",
       "description":"Der Nachbearbeitungstechniker bewertet Audiotechnologien und ihre Anwendung in Bezug auf die letzten Schritte der Produktion und Veröffentlichung.",
       "example":"Dick Wound for \"Queens Next Door\""
    },
    {
       "key":"Audio Post-Production\/Audio Editor",
-      "group":" Audio Nachbearbeitung",
+      "group":"Audio Nachbearbeitung",
       "role":"Audio Editor",
       "description":"Der Audio-Editor schneidet und ordnet Audio für Klarheit und Storytelling-Zwecke neu. Der Audio-Editor kann auch allgemeine Audioverarbeitung und Mastering durchführen.",
       "example":""
    },
    {
       "key":"Audio Post-Production\/Sound Designer",
-      "group":" Audio Nachbearbeitung",
+      "group":"Audio Nachbearbeitung",
       "role":"Sound Designer",
       "description":"Der Sound Designer erstellt und komponiert eine Vielzahl von Audioelementen. Diese Elemente sind der Sprache meist untergeordnet, aber ein Sounddesigner kann Sprachelemente auf künstlerische Weise kreativ bearbeiten / produzieren.",
       "example":""
    },
    {
       "key":"Audio Post-Production\/Foley Artist",
-      "group":" Audio Nachbearbeitung",
+      "group":"Audio Nachbearbeitung",
       "role":"Geräuschemacher",
       "description":"Der Geräuschemacher macht Soundeffekte für einen Podcast und kann dies sowohl durch physische Aufnahme als auch durch digitale Verarbeitung oder eine Kombination aus beidem tun.",
       "example":""
    },
    {
       "key":"Audio Post-Production\/Composer",
-      "group":" Audio Nachbearbeitung",
+      "group":"Audio Nachbearbeitung",
       "role":"Komponist",
       "description":"Der Komponist schreibt ein Original-Musikstück (oder mehrere), das in der veröffentlichten Folge gespielt wird. Der Komponist wird oft auch der Interpret dieses Musikstücks sein.",
       "example":"Marcus Thorne Bagala from \"This American Life\""
    },
    {
       "key":"Audio Post-Production\/Theme Music",
-      "group":" Audio Nachbearbeitung",
+      "group":"Audio Nachbearbeitung",
       "role":"Themenmusik",
       "description":"Themenmusik ist ein Musikstück, das den Podcast über mehrere Episoden hinweg begleitet, meistens am Anfang einer Folge. Die Themenmusik wird verwendet, um den Podcast als Marke vorzustellen. Diese Rolle ist für den Ersteller des Themas Musik.",
       "example":"Mark Philips from \"Startup Podcast\""
    },
    {
       "key":"Audio Post-Production\/Music Production",
-      "group":" Audio Nachbearbeitung",
+      "group":"Audio Nachbearbeitung",
       "role":"Musikproduktion",
       "description":"Die Rolle der Musikproduktion hilft bei der kreativen Erstellung von Musik in einer Rolle, die vom Schreiben dieser Musik getrennt ist. Die Musikproduktion beinhaltet oft kreative Entscheidungen hinsichtlich der Methode, mit der Musik aufgenommen wird, der Anordnung von Instrumenten, der Verwendung von Effekten und mehr.",
       "example":"Storm Duper for \"Faking Star Wars Radio\""
    },
    {
       "key":"Audio Post-Production\/Music Contributor",
-      "group":" Audio Nachbearbeitung",
+      "group":"Audio Nachbearbeitung",
       "role":"Music Contributor",
       "description":"Der Music Contributor ist der Urheber von Musik, die für den Podcast verwendet, aber nicht unbedingt speziell für den Podcast produziert wurde. Oft verwendet ein Podcast ein vorhandenes Musikstück und nennt den ursprünglichen Schöpfer.",
       "example":"Bobby Lord from \"Startup Podcast\""
